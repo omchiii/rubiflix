@@ -1,0 +1,66 @@
+.containers {
+    display: grid;
+    grid-template-columns: 25% 75%
+}
+
+
+.features {
+    color: #03989e;
+    padding-left: 40px;
+}
+h1 {
+    padding-bottom: 0;
+}
+
+.par {
+    padding-left: 10px;
+}
+
+.infos {
+    text-transform: uppercase;
+    color: #03989e;
+
+
+
+}
+
+.stars  {
+    background: #03989e;
+    color: white;
+    width: min-content;
+    padding: 5px;
+    text-transform: capitalize;
+  }
+
+  .white {
+      color: white;
+  }
+
+.pd40 {
+    padding-top: 40px !important;
+}
+
+.imdb-logo {
+    position: relative;
+    top: 18px;
+}
+
+
+@media only screen and (max-width: 1200px) {
+    .containers {
+        text-align: center;
+        display: grid;
+        grid-template-columns: 100%
+    }
+    .containers .left{
+        text-align: left;
+    }
+    .par {
+        padding-left: 0;
+    }
+
+    .features {
+        padding-left: 0;
+    }
+    
+  }
