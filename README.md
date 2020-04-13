@@ -20,5 +20,5 @@ Therefore, I think that the logic I put down could definetely be better, especia
 I didn't have the time to restructure. This mistake was mainly due to jumping right into the project without planning it out. 
 
 
-I am a fast learner , non of these will be an issue in the future.
+I am a fast learner , none of these will be an issue in the future.
 
