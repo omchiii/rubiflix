@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/rubiflix/static/css/main.0462fa5e.chunk.css",
+    "main.js": "/rubiflix/static/js/main.a94ba7d3.chunk.js",
+    "main.js.map": "/rubiflix/static/js/main.a94ba7d3.chunk.js.map",
+    "runtime-main.js": "/rubiflix/static/js/runtime-main.b4babfa2.js",
+    "runtime-main.js.map": "/rubiflix/static/js/runtime-main.b4babfa2.js.map",
+    "static/js/2.3b9f1ee1.chunk.js": "/rubiflix/static/js/2.3b9f1ee1.chunk.js",
+    "static/js/2.3b9f1ee1.chunk.js.map": "/rubiflix/static/js/2.3b9f1ee1.chunk.js.map",
+    "index.html": "/rubiflix/index.html",
+    "precache-manifest.390dcca2df9511bd5cf773716db43413.js": "/rubiflix/precache-manifest.390dcca2df9511bd5cf773716db43413.js",
+    "service-worker.js": "/rubiflix/service-worker.js",
+    "static/css/main.0462fa5e.chunk.css.map": "/rubiflix/static/css/main.0462fa5e.chunk.css.map",
+    "static/js/2.3b9f1ee1.chunk.js.LICENSE.txt": "/rubiflix/static/js/2.3b9f1ee1.chunk.js.LICENSE.txt",
+    "static/media/imdb.png": "/rubiflix/static/media/imdb.6580150f.png",
+    "static/media/loading.svg": "/rubiflix/static/media/loading.9d3e28ea.svg",
+    "static/media/logo.png": "/rubiflix/static/media/logo.b05a40e9.png",
+    "static/media/noimage.png": "/rubiflix/static/media/noimage.6418f005.png",
+    "static/media/star.png": "/rubiflix/static/media/star.09ed808c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b4babfa2.js",
+    "static/js/2.3b9f1ee1.chunk.js",
+    "static/css/main.0462fa5e.chunk.css",
+    "static/js/main.a94ba7d3.chunk.js"
+  ]
+}
